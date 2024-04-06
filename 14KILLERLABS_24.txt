@@ -107,6 +107,9 @@ Save the configuration
 
 Sw10#copy running-config startup-config
 
+to check:
+ show spanning-tree vlan 10 >> this is the root bridge
+
 $$$$$$$$$$$$$$LAB 12  $$$$$$$$$$$$$$$$$$$$$$$
 $$$$$$$$OSPF Summarization Sim 2 $$$$$$$$$$$$
 
